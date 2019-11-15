@@ -1,5 +1,5 @@
 {
-  "name": "jsonfile",
+  "name": "@jzetlen/jsonfile",
   "version": "5.0.0",
   "description": "Easily read/write JSON files.",
   "repository": {
